@@ -1,0 +1,8 @@
+jtype: EvcilHayvanSiniflandirma
+py_modules:
+  - executor.py
+metas:
+  name: EvcilHayvanSiniflandirma
+  description: 
+  url: 
+  keywords: []
